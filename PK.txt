@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         QUOTEX JISAN X
+// @name         NOBEL MAN X
 // @namespace    http://tampermonkey.net/
-// @version      2024-07-13
+// @version      2025-01-22
 // @description  Contact us to get lifetime access
-// @author       treaderjisanx
+// @author       NobelMan
 // @match        <all_urls>
 // @icon         https://i.postimg.cc/br239Jp7/20241213-144924.png
 // @grant        none
@@ -12,7 +12,7 @@
 setInterval(function(){
 // Set your leaderboard name and initial capital here
 
-const lname = "Treader Jisan X";
+const lname = "Nobel Man";
 const iblafp = 456759;
 
 
